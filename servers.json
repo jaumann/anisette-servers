@@ -55,6 +55,10 @@
         {
             "name": "StikTech",
             "address": "https://ani.stik.tech"
+        },
+        {
+            "name": "JonAumann",
+            "address": "https://ani.jonaumann.com"
         }
     ]
 }
